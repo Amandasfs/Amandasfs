@@ -11,7 +11,7 @@
 
   ###Contact Me 
   
-  ![Bob Esponja](https://tenor.com/view/spongebob-squarepants-nickelodeon-surprise-surprised-shocked-gif-5753570)
+  <img src="https://tenor.com/view/spongebob-squarepants-nickelodeon-surprise-surprised-shocked-gif-5753570">
 
   <div>
 <a href="https://instagram.com/amandsfs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
