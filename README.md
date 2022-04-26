@@ -2,14 +2,21 @@
 
 ![Snake animation](https://github.com/Amandasfs/Amandasfs/blob/output/github-contribution-grid-snake.svg)
 
-###About Me 
+### About Me 
 🇧🇷My name is Amanda;
+
 📚Graduated in Systems Analysis -2022;
+
 👩🏽‍💻Developer in evolution;
+
 🎌I like Animes, I am currently watching One Piece; 🏴‍☠️
+
 📺I also like to watch doramas;
+
 🖤I like horror books;
+
 🎼I am a music student;
+
 🎨In my free time I like to paint;
 
 That's it, Welcome to my profile 💜💜
