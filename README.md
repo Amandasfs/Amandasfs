@@ -18,9 +18,11 @@ In addition to technology, I'm interested in arts such as painting, and literatu
 
 Above all, I believe that technology can be a powerful tool to improve the world and make it a more fair and inclusive place for everyone. I'm excited to contribute to projects that can help achieve this goal and open to opportunities for collaboration and learning. You can find my projects on my Github repository.💜</h4>
 
-<img src="https://user-images.githubusercontent.com/79655661/228043300-c5856bd3-ea71-4858-8b72-0ffbeb548d1f.png" alt="avatar" width="200" align="lefth" /> 
 
 <h2>Sobre Mim: </a>
+
+<img src="https://user-images.githubusercontent.com/79655661/228043300-c5856bd3-ea71-4858-8b72-0ffbeb548d1f.png" alt="avatar" width="200" align="lefth" /> 
+
 
 <h4>💜Sou desenvolvedora de software apaixonada por tecnologia e inovação. Tenho 22 anos e sou formada em Análise e Desenvolvimento de Sistemas. Atualmente, estou estudando Ciência da Computação e sempre buscando aprender novas tecnologias.
 
