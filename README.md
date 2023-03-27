@@ -4,8 +4,10 @@
 
 <h6>"Knowledge is power, and technology can be one of the most powerful tools to achieve it." - Shahrzad Rafati.</h6>
 
-<img src="https://user-images.githubusercontent.com/79655661/228041241-beebe5b5-8bfd-4d09-97e4-1af193c384be.png" alt="avatar 3" width="200" align="right" />
-
+<img src="https://user-images.githubusercontent.com/79655661/228042258-368f13d9-3c85-4fb6-bfe9-d2509b3d6020.png" alt="avatar 3" width="200" align="right" />
+<img src="https://user-images.githubusercontent.com/79655661/228042502-e1aa6af7-7f84-4018-9337-bbaab8896bb7.png" alt="avatar 3" width="200" align="right" />
+<img src="https://user-images.githubusercontent.com/79655661/228042532-670af8ad-398c-49a5-9d32-d42c55524584.png" alt="avatar 3" width="200" align="right" />
+<img src="https://user-images.githubusercontent.com/79655661/228042568-d60c953e-0688-4699-8ce5-7499c0242562.png" alt="avatar 3" width="200" align="right" />
 
 <h2>About Me: </a>
 
