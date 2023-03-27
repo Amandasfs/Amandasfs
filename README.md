@@ -20,9 +20,10 @@ Above all, I believe that technology can be a powerful tool to improve the world
 
 <h2>Sobre Mim: </a>
 
+ <h4>💜Sou desenvolvedora de software apaixonada por tecnologia e inovação. Tenho 22 anos e sou formada em Análise e Desenvolvimento de Sistemas. Atualmente, estou estudando Ciência da Computação e sempre buscando aprender novas tecnologias.
 
-<img src="https://user-images.githubusercontent.com/79655661/228043300-c5856bd3-ea71-4858-8b72-0ffbeb548d1f.png" alt="avatar" width="200" />  <h4>💜Sou desenvolvedora de software apaixonada por tecnologia e inovação. Tenho 22 anos e sou formada em Análise e Desenvolvimento de Sistemas. Atualmente, estou estudando Ciência da Computação e sempre buscando aprender novas tecnologias.
-
+  <img src="https://user-images.githubusercontent.com/79655661/228043300-c5856bd3-ea71-4858-8b72-0ffbeb548d1f.png" alt="avatar" width="200" />
+  
 Eu moro no Brasil e sou fluente em espanhol. Além disso, estou estudando inglês para aprimorar minhas habilidades de comunicação e poder colaborar com pessoas de diferentes partes do mundo.
 
 No mundo da programação, tenho experiência em várias linguagens, como Java, HTML, CSS, C#, Python, SQL e JavaScript. Também estou familiarizada com os frameworks NodeJS, Angular, Bootstrap e SpringBoot.
