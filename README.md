@@ -6,9 +6,10 @@
 
 
 <h1 align="center"> Social Media | Redes Sociais </h1>
-<a heigth= 3rem  href="https://www.instagram.com/amandsfs/">![instagram](https://user-images.githubusercontent.com/79655661/228021535-031b4d41-1826-449f-84c7-964222f3576b.png)</a>
+
+<a href="https://www.instagram.com/amandsfs/">![instagram](https://user-images.githubusercontent.com/79655661/228023877-b0b1b76c-82a4-41c7-9835-ddd5f841e2d4.png)</a>
 
   
- ><a href="https://www.linkedin.com/in/amanda-freitas-santos/">![linkedin](https://user-images.githubusercontent.com/79655661/228021521-8fff8d33-16a7-4f97-b482-336b396c8119.png)</a>
+ <a href="https://www.linkedin.com/in/amanda-freitas-santos/">![linkedin](https://user-images.githubusercontent.com/79655661/228023829-0a56ddd0-6043-4527-af15-90cefeb9d1ce.png)</a>
 
  
