@@ -31,6 +31,7 @@ Acima de tudo, acredito que a tecnologia pode ser uma ferramenta poderosa para m
 <h3> Social Media | Redes Sociais:</h3>
 
 <a href="https://www.instagram.com/amandsfs/">![instagram](https://user-images.githubusercontent.com/79655661/228024942-59408489-8ffd-45ea-8979-b7acf345cf58.png)</a> <a href="https://www.linkedin.com/in/amanda-freitas-santos/">![linkedin](https://user-images.githubusercontent.com/79655661/228024208-1a071433-dc4b-45f1-8bad-c90187b08b9e.png)</a>
+![avatar 3](https://user-images.githubusercontent.com/79655661/228041241-beebe5b5-8bfd-4d09-97e4-1af193c384be.png)
 
-![Avatar](https://user-images.githubusercontent.com/79655661/228041058-cf63397a-8c23-40be-8ca0-f4bacefc43f9.png)
+
 
