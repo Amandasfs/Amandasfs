@@ -21,7 +21,7 @@ Above all, I believe that technology can be a powerful tool to improve the world
 
 <h2>Sobre Mim: </a>
 
-<img src="https://user-images.githubusercontent.com/79655661/228043300-c5856bd3-ea71-4858-8b72-0ffbeb548d1f.png" alt="avatar" width="200" align="lefth" /> 
+<img src="https://user-images.githubusercontent.com/79655661/228043300-c5856bd3-ea71-4858-8b72-0ffbeb548d1f.png" alt="avatar" width="200" /> 
 
 
 <h4>💜Sou desenvolvedora de software apaixonada por tecnologia e inovação. Tenho 22 anos e sou formada em Análise e Desenvolvimento de Sistemas. Atualmente, estou estudando Ciência da Computação e sempre buscando aprender novas tecnologias.
