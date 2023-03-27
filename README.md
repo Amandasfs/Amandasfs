@@ -3,7 +3,9 @@
 <h1 align="center"> 💜 Hello Word! I am Amanda F. Santos! 💜 </h1> 
 
 <h6>"Knowledge is power, and technology can be one of the most powerful tools to achieve it." - Shahrzad Rafati.</h6>
-<img src="https://user-images.githubusercontent.com/79655661/228041241-beebe5b5-8bfd-4d09-97e4-1af193c384be.png" alt="avatar 3" width="200" />
+
+<img src="https://user-images.githubusercontent.com/79655661/228041241-beebe5b5-8bfd-4d09-97e4-1af193c384be.png" alt="avatar 3" width="200" align="right" />
+
 
 <h2>About Me: </a>
 
