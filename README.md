@@ -1,6 +1,7 @@
 ![Snake animation](https://github.com/Amandasfs/Amandasfs/blob/output/github-contribution-grid-snake.svg)
 
-<h1 align="center"> Hello Word! I am Amandfsantos ![heart](https://user-images.githubusercontent.com/79655661/228027044-e3d51d7e-f671-485d-82b9-4f78ab584bdf.png)</h1>
+<h1 align="center">![heart](https://user-images.githubusercontent.com/79655661/228030246-d22e5176-bc57-47bf-a957-a5a0f8a6452c.png) Hello Word! I am Amanda F. Santos![heart](https://user-images.githubusercontent.com/79655661/228030295-8cbd0878-7e30-44ea-afb1-752f4e37593a.png)
+</h1>
 
 <h2>About Me: </a>
 
