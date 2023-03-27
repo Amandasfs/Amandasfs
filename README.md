@@ -4,9 +4,6 @@
 
 <h6>"Knowledge is power, and technology can be one of the most powerful tools to achieve it." - Shahrzad Rafati.</h6>
 
-<img src="https://user-images.githubusercontent.com/79655661/228042258-368f13d9-3c85-4fb6-bfe9-d2509b3d6020.png" alt="avatar 3" width="200" align="right" />
-<img src="https://user-images.githubusercontent.com/79655661/228042502-e1aa6af7-7f84-4018-9337-bbaab8896bb7.png" alt="avatar 3" width="200" align="right" />
-<img src="https://user-images.githubusercontent.com/79655661/228042532-670af8ad-398c-49a5-9d32-d42c55524584.png" alt="avatar 3" width="200" align="right" />
 <img src="https://user-images.githubusercontent.com/79655661/228042568-d60c953e-0688-4699-8ce5-7499c0242562.png" alt="avatar 3" width="200" align="right" />
 
 <h2>About Me: </a>
@@ -33,6 +30,7 @@ Além da tecnologia, tenho interesse em artes, como pintura, e em literatura, es
 
 Acima de tudo, acredito que a tecnologia pode ser uma ferramenta poderosa para melhorar o mundo e torná-lo um lugar mais justo e inclusivo para todos. Estou animada para contribuir para projetos que possam ajudar a alcançar esse objetivo e estou aberta a oportunidades de colaboração e aprendizado. Você pode encontrar meus projetos no meus repositórios do Github💜</h4>
 
+<img src="https://user-images.githubusercontent.com/79655661/228042502-e1aa6af7-7f84-4018-9337-bbaab8896bb7.png" alt="avatar 3" width="200" align="lefth" />
 <h3> Social Media | Redes Sociais:</h3>
 
 <a href="https://www.instagram.com/amandsfs/">![instagram](https://user-images.githubusercontent.com/79655661/228024942-59408489-8ffd-45ea-8979-b7acf345cf58.png)</a> <a href="https://www.linkedin.com/in/amanda-freitas-santos/">![linkedin](https://user-images.githubusercontent.com/79655661/228024208-1a071433-dc4b-45f1-8bad-c90187b08b9e.png)</a>
