@@ -4,6 +4,7 @@
 
 <h2>About Me: </a>
 
+![heart](https://user-images.githubusercontent.com/79655661/228027044-e3d51d7e-f671-485d-82b9-4f78ab584bdf.png)
 
 
 <h3 align="center"> Social Media | Redes Sociais:</h3>
