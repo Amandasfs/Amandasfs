@@ -28,7 +28,7 @@ Além da tecnologia, tenho interesse em artes, como pintura, e em literatura, es
 
 Acima de tudo, acredito que a tecnologia pode ser uma ferramenta poderosa para melhorar o mundo e torná-lo um lugar mais justo e inclusivo para todos. Estou animada para contribuir para projetos que possam ajudar a alcançar esse objetivo e estou aberta a oportunidades de colaboração e aprendizado.
 
-<img align="left" src="https://user-images.githubusercontent.com/79655661/228043300-c5856bd3-ea71-4858-8b72-0ffbeb548d1f.png" alt="avatar" width="200" />
+<img align="left" src="https://user-images.githubusercontent.com/79655661/229303389-85629797-86d9-42f8-b37f-c9a2c563d96f.png" alt="avatar" width="200" />
 Você pode encontrar meus projetos no meus repositórios do Github💜</h4>
 
 <h3> Social Media | Redes Sociais:</h3>
