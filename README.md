@@ -34,3 +34,8 @@ Você pode encontrar meus projetos no meus repositórios do Github💜</h4>
 <h3> Social Media | Redes Sociais:</h3>
 <a href="https://www.instagram.com/amandsfs/"><img src="https://user-images.githubusercontent.com/79655661/228024942-59408489-8ffd-45ea-8979-b7acf345cf58.png" alt="instagram" align="rigth" /></a> <a href="https://www.linkedin.com/in/amanda-freitas-santos/"><img src="https://user-images.githubusercontent.com/79655661/228024208-1a071433-dc4b-45f1-8bad-c90187b08b9e.png" alt="linkedin" align="rigth" /></a>
 
+<div>
+<a href="https://github.com/Amandasfs">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amandasfs-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
