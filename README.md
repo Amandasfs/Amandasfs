@@ -1,6 +1,3 @@
-
-![GitHub Snake](https://github.com/Amandasfs/github-snake/raw/output/snake.svg)
-
 <h1 align="center"> 💜 Hello Word! I am Amanda de Freitas! 💜 </h1> 
 
 <h6>"Knowledge is power, and technology can be one of the most powerful tools to achieve it." - Shahrzad Rafati.</h6>
