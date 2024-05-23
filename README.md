@@ -1,4 +1,5 @@
-![Snake animation](https://github.com/Amandasfs/Amandasfs/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Snake](https://github.com/Amandasfs/github-snake/raw/output/snake.svg)
 
 <h1 align="center"> 💜 Hello Word! I am Amanda de Freitas! 💜 </h1> 
 
