@@ -1,4 +1,4 @@
-![Cabeçalho](https://github.com/seu-usuario/seu-repositorio/blob/main/imagem_2024-08-07_150418713.png)
+![Cabeçalho](https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/imagem_2024-08-07_150418713.png)
 
 # Nome do Projeto
 
