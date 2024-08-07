@@ -6,8 +6,8 @@
   <img src="https://img.shields.io/badge/status-active-purple" alt="Status">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=radial" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas">
 </p>
