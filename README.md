@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-purple" alt="Status">
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/vite-8A2BE2?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/node.js-8A2BE2?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -23,12 +22,7 @@
   <img src="https://img.shields.io/badge/sass-8A2BE2?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/.net-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="display:inline-block;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas" style="display:inline-block;">
-</p>
-
-<p align="center" style="background-color: #8A2BE2; padding: 10px; border-radius: 10px; display: inline-block;">
-  <iframe src="https://open.spotify.com/embed/track/532WuZy5kwDhU8iNUbLKQK" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" style="border-radius: 10px;"></iframe>
 </p>
