@@ -25,11 +25,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="display:inline-block;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas" style="display:inline-block;">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas">
-</p>
+
 <p align="center">
   <iframe src="https://open.spotify.com/embed/track/532WuZy5kwDhU8iNUbLKQK" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </p>
