@@ -29,7 +29,10 @@
   <img src="https://img.shields.io/badge/css3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/sass-8A2BE2?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
 </p>
-<p align="center">
+<p align="left" style="position: relative; width: 100%;">
+  <img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/f3a8d9d608f5067c2729218da7d07410.jpg">
+</p>
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats" style="display:inline-block;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas" style="display:inline-block;">
 </p>
