@@ -32,6 +32,7 @@
 <table>
   <tr>
     <td>
+      <h1>SOBRE MIM!</h1><img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/fantasma%20chapeu.png">
       <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas">
