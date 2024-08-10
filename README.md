@@ -38,11 +38,11 @@
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas">
     </td>
+     <td>
+    <img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/fantasma%20chapeu.png" alt="Fantasma" style="width: 5rem; height: auto; vertical-align: middle;">
+   </td>
     <td>
       <img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/f3a8d9d608f5067c2729218da7d07410.jpg" alt="Imagem à Direita">
     </td>
-   <td>
-    <img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/fantasma%20chapeu.png" alt="Fantasma" style="width: 3rem; height: auto; vertical-align: middle;">
-   </td>
   </tr>
 </table>
