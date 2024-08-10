@@ -32,7 +32,9 @@
 <table>
   <tr>
     <td>
-      <h1>SOBRE MIM!</h1><img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/fantasma%20chapeu.png">
+      <h1 style="display: inline-block; vertical-align: middle;">SOBRE MIM!</h1>
+      <img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/fantasma%20chapeu.png" alt="Fantasma" style="width: 3rem; height: auto; vertical-align: middle;">
+      <br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas">
@@ -42,5 +44,3 @@
     </td>
   </tr>
 </table>
-
-
