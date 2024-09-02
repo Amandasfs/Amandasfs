@@ -31,10 +31,6 @@
 </p>
 <table>
   <tr>
-    <td>
-      <h1 style="display: inline-block; vertical-align: middle;">SOBRE MIM!</h1>
-     <img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/fantasma%20chapeu.png" alt="Fantasma" style="width: 5rem; height: auto; vertical-align: middle;">
-    </td>
    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
       <br>
