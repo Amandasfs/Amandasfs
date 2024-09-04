@@ -33,12 +33,16 @@
   <tr>
    <td>
       <h1>Sobre mim :purple_heart:</h1>
+      <p>Sou desenvolvedora FullStack, aqui você acompanhara minha jornada de aprendizado, meus projetos e meu trabalhos!</p>
+       <br>
+      <h2>Minhas Linguagens:</h2>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas">
+         <br>
+      <h2>Meus Status:</h2>
+      <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
     </td>
     <td>
       <img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/f3a8d9d608f5067c2729218da7d07410.jpg" alt="Imagem à Direita">
-     <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas">
     </td>
   </tr>
 </table>
