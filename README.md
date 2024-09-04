@@ -32,12 +32,13 @@
 <table>
   <tr>
    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas">
+      <h1>Sobre mim :purple_heart:</h1>
     </td>
     <td>
       <img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/f3a8d9d608f5067c2729218da7d07410.jpg" alt="Imagem à Direita">
+     <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amandasfs&layout=compact&theme=midnight-purple" alt="Linguagens Mais Usadas">
     </td>
   </tr>
 </table>
