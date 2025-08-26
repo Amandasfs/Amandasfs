@@ -41,7 +41,7 @@
       <h2>Meus Status:</h2>
       <img src="https://github-readme-stats.vercel.app/api?username=Amandasfs&show_icons=true&theme=midnight-purple" alt="GitHub Stats">
     <h2>Meu Site</h2>
-<a>amandadev.com.br</a>
+<a>https://www.amandadev.com.br/</a>
     </td>
     <td>
       <img src="https://github.com/Amandasfs/Amandasfs/blob/main/.github/workflows/f3a8d9d608f5067c2729218da7d07410.jpg" alt="Imagem à Direita">
